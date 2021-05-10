@@ -1,0 +1,31 @@
+align-items
+
+justify-content: space-around 
+
+flex-direction: column 
+direçao da posicao dos itens
+column no sentido que vao se posicionar como coluna
+flex, que vao se moldar ao tamanho da pagina
+muda o eixo, tava como linha, e agora esta como coluna
+
+
+
+justify-content: space-between;
+
+
+.group:nth-child(1) {
+1 representa o primeiro bloco
+
+rem o que é?
+
+
+overflow: hidden;
+pra imagem nao exceder o tamanho da minha div pra fora
+
+
+background-size: cover;
+
+
+3:50 pt 4
+
+
